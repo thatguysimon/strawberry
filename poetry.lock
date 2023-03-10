@@ -2960,14 +2960,14 @@ files = [
 
 [[package]]
 name = "types-aiofiles"
-version = "22.1.0.9"
+version = "23.1.0.0"
 description = "Typing stubs for aiofiles"
 category = "dev"
 optional = false
 python-versions = "*"
 files = [
-    {file = "types-aiofiles-22.1.0.9.tar.gz", hash = "sha256:d46712556746cb4c9b63f86217c8cc0e9c54b5cf228ed9d8c1c21e38c2d9de99"},
-    {file = "types_aiofiles-22.1.0.9-py3-none-any.whl", hash = "sha256:d0bdc4d978528c6df37816879b7ff9dc0096dd70483d885e9c8624a560f31cc5"},
+    {file = "types-aiofiles-23.1.0.0.tar.gz", hash = "sha256:762b94ab5a67be15e04dfc09291f26befde176b2b336320a1bdfebe240e3d69b"},
+    {file = "types_aiofiles-23.1.0.0-py3-none-any.whl", hash = "sha256:e9258247b5da2023960d379b6b2af7f3e3526e5810ef5668b515d1dc938ac1e9"},
 ]
 
 [[package]]
@@ -3664,4 +3664,4 @@ sanic = ["sanic"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.7"
-content-hash = "70b97ad6c0da74bd99e661a5a89a8f73b3f2a298af4ee80ab6a36a35fcaf4042"
+content-hash = "3f4f0f8d0cc4675f828a4b5c6fd896634a89bb68cc4ddc6e1a13cbabf2a6a42a"
